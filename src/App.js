@@ -1,4 +1,3 @@
-import { div } from "prelude-ls";
 import Komponen from "./Components";
 
 function App() {
